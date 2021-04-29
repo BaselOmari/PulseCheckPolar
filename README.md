@@ -5,9 +5,7 @@ Week 0 Pulse Check Technical Assessment.
 # Overview
 Two versions for the sliding puzzle were made:
 ## 1. [P5.js Version](https://editor.p5js.org/BasselOmari/sketches/Y_k4jqAqJ)
-This was made using the P5.js, which you can access [here](https://editor.p5js.org/BasselOmari/full/Y_k4jqAqJ).
-### How to play
-User can use the arrows or WASD to move around the boxes. Press 'N' to reset to a new board.
+This was made using the P5.js, which you can access [here](https://editor.p5js.org/BasselOmari/full/Y_k4jqAqJ). User can use the arrows or WASD to move around the boxes. Press 'N' to reset to a new board.
 
 ## 2. [Python Version](https://github.com/BaselOmari/PulseCheckPolar/blob/main/SlidingPuzzlePython.py)
 
