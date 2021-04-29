@@ -17,3 +17,9 @@ This was made as I was instructed by my mentor that the primary language used fo
 
 ## Notes
 Some variations of the 3x3 board are unsolvable, thus a code segment was added to ensure that any generated puzzle is solvable (see `solvableBoard` function).
+
+
+## Work Left
+1. Commenting and Documenting the code
+2. Adding support for mouse clicks
+3. Adding animations
